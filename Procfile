@@ -1,0 +1,1 @@
+web:gunicorn anton.wsgi --log-file -
